@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **Yonny04/Yonny04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Email or Connect
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have still yet to catch a fish...
--->
+
