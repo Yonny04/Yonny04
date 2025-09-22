@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Your Name]
+# 👋 Hi, I’m Yoon
 
 Welcome to my GitHub profile!  
 I’m passionate about **[web development, data science, AI, Project Management]** and love building **[web tools]**.  
@@ -14,12 +14,12 @@ I’m passionate about **[web development, data science, AI, Project Management]
 
 ## 🛠️ Tech Stack
 Here are some of the tools and technologies I use:  
-/*
+//
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-*/
+//
 ---
 
 ---
